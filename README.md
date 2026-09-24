@@ -47,3 +47,5 @@ their `authorized_keys` file.
    git commit -m "Add my SSH public key"
    git push origin main
    ```
+
+---
